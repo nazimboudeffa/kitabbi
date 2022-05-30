@@ -1,3 +1,3 @@
 # kitabbi
 
-OOS version of manuels-anciens.com
+OSS version of manuels-anciens.com
